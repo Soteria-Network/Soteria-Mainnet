@@ -7,4 +7,4 @@
 
     minTarget Normal: Move from >>3 → >>4. This loosens the floor, allowing difficulty to rise higher if hashrate surges x16 instead of x8 the current value.
 
-    dtUpper: Raise from 3*T → 4T*. This gives more tolerance for slow blocks, reducing artificial compression of long intervals.
+    dtUpper: Keep using 3*T not 4T like in the bootstrap period*.
