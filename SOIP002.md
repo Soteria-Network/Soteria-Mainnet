@@ -11,3 +11,5 @@
     For meme movement: Start testing memhash timestamped.
 
     Difficulty algo weight 1/2 upto 2/3 for quicker responsiveness
+
+    Halving schedule: 1 completed, 3 scheduled for 2026, maximum supply limited to 1.5M.
