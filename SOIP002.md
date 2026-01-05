@@ -13,3 +13,7 @@
     Difficulty algo weight 1/2 upto 2/3 for quicker responsiveness
 
     Halving schedule: 1 completed, 3 scheduled for 2026, maximum supply limited to 1.5M.
+
+    Misbehaving Nodes: The penalty period will be extended from 24 hours to at least 7 days. (maybe even to 14-30 days)
+
+    Links: Correct broken links in QT.
