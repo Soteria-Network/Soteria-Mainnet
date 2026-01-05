@@ -8,3 +8,15 @@ Traditional Proof-of-Work (PoW) systems reward miners solely based on block disc
 - **Problem:** Miners often hop between chains, undermining stability and long-term network security.  
 - **Goal:** Encourage miners to remain loyal, maintain stable hashrates, and continuously support the network.  
 - **Solution:** Implement an oracle layer that tracks miner performance metrics and distributes periodic bonus rewards. 
+
+## Reward Formula
+
+Total reward for a miner in a given period:
+
+\[
+R_{total} = R_{block} + R_{oracle}
+\]
+
+Where:
+- **R_block:** Standard PoW block reward.  
+- **R_oracle:** Bonus reward based on loyalty and stability.  
