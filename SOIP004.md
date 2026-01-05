@@ -18,3 +18,15 @@ Total reward for a miner in a given period:
 Where:
 - **R_block:** Standard PoW block reward.  
 - **R_oracle:** Bonus reward based on loyalty and stability.  
+
+## Benefits
+- **Fairness:** Rewards miners for both power and commitment.  
+- **Stability:** Encourages long-term participation.  
+- **Innovation:** Differentiates our chain from traditional PoW systems.  
+
+## Challenges
+- **Oracle trust:** Must ensure data integrity and prevent gaming.  
+- **Reward balance:** Avoid inflationary pressure on tokenomics.  
+
+## Conclusion
+This proposal introduces a **Proof-of-Work + Proof-of-Loyalty hybrid model**. By rewarding miners not only for block discovery but also for uptime, stability, and loyalty, we strengthen network security and incentivize long-term commitment. This innovation positions our ecosystem as a forward-thinking blockchain that values both hashpower and reliability.
