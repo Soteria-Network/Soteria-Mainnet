@@ -1,19 +1,20 @@
-✅ Recommendation for the next release
 
-    Coinbase maturity: Reduce to ~9 hours, second phase to ~7 hours
+## ✅ Recommendation for the next release
 
-    Block time: Reduce to 8 seconds, second phase to 6 seconds.
+- Coinbase maturity: Reduce to ~9 hours, second phase to ~7 hours
 
-    Block reward: Reduce to 0.05/0.015, second phase to 0.04/0.012.
+- Block time: Reduce to 8 seconds, second phase to 6 seconds.
 
-    To improve the mining algorithm: Start testing Hive.
+- Block reward: Reduce to 0.05/0.015, second phase to 0.04/0.012.
 
-    For meme movement: Start testing memhash timestamped.
+- To improve the mining algorithm: Start testing Hive.
 
-    Difficulty algo weight 1/2 upto 2/3 for quicker responsiveness
+- For meme movement: Start testing memhash timestamped.
 
-    Halving schedule: 1 completed, 3 scheduled for 2026, maximum supply limited to 1.5M.
+- Difficulty algo weight 1/2 upto 2/3 for quicker responsiveness
 
-    Misbehaving Nodes: The penalty period will be extended from 24 hours to at least 7 days. (maybe even to 14-30 days)
+- Halving schedule: 1 completed, 3 scheduled for 2026, maximum supply limited to 1.5M.
 
-    Links: Correct broken links in QT.
+- Misbehaving Nodes: The penalty period will be extended from 24 hours to at least 7 days. (maybe even to 14-30 days)
+
+- Links: Correct broken links in QT.
