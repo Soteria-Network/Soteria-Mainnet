@@ -13,7 +13,7 @@ Traditional Proof-of-Work (PoW) systems reward miners solely based on block disc
 
 Total reward for a miner in a given period:
 
-`R_total = R_block + R_oracle`
+##### `R_total = R_block + R_oracle`
 
 Where:
 - **R_block:** Standard PoW block reward.  
