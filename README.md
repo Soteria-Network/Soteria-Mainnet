@@ -1,3 +1,3 @@
-# Soteria-Mainnet
+# Soteria Mainnet v2
 
-####   Just a holder for the new SOIPs that we want to add to the mainnet in the next releases
+####   Here we will start to work and add Soteria Mainnet v2 that should totally improve mining algorithm and migrating to SoterG lite.
